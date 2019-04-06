@@ -3,7 +3,7 @@
 ## Important things
 1. One task -> one folder 
 2. Fork -> pull request -> main repo 
-3. Important things to learn -> folder "To learn" 
+3. Important things to learn -> folder "Practice" 
 4. If you find a good tutorial, please put it in the bibliography. 
 
 ## Environment
